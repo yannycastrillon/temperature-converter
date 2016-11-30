@@ -1,6 +1,6 @@
 var $answer = $("#display_ans");
 var $input = $("#input");
-var $button = $("button");
+
 
 $input.on("keyup",function(){
   var value =$input.val();
