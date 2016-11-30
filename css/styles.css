@@ -1,0 +1,18 @@
+.container{
+  text-align: center;
+  width: auto;
+  height: auto;
+}
+input{
+  margin: 30px 5px;
+  resize: horizontal;
+  width: 50px;
+}
+
+.answer h2{
+    display: inline-block;
+}
+
+h1, h2{
+  font-weight: 600;
+}
